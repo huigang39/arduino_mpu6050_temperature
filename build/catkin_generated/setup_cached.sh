@@ -8,6 +8,7 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/huigang/codespace/ros/arduino_mpu6050_temperature/devel:$CMAKE_PREFIX_PATH"
+export LD_LIBRARY_PATH="/home/huigang/codespace/ros/arduino_mpu6050_temperature/devel/lib:$LD_LIBRARY_PATH"
 export PWD='/home/huigang/codespace/ros/arduino_mpu6050_temperature/build'
 export ROSLISP_PACKAGE_DIRECTORIES='/home/huigang/codespace/ros/arduino_mpu6050_temperature/devel/share/common-lisp'
 export ROS_PACKAGE_PATH="/home/huigang/codespace/ros/arduino_mpu6050_temperature/src:$ROS_PACKAGE_PATH"

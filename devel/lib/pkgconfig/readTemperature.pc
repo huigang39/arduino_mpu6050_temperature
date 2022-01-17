@@ -1,0 +1,8 @@
+prefix=/home/huigang/codespace/ros/arduino_mpu6050_temperature/devel
+
+Name: readTemperature
+Description: Description of readTemperature
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
