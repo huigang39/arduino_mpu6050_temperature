@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/huigang/codespace/ros/arduino_mpu6050_temperature/devel/setup.sh

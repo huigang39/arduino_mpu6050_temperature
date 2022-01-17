@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/huigang/codespace/ros/arduino_mpu6050_temperature/devel -DCMAKE_INSTALL_PREFIX=/home/huigang/codespace/ros/arduino_mpu6050_temperature/install -G Unix Makefiles
